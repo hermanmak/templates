@@ -55,7 +55,7 @@
   {
     "type": 1,
     "title": "MySQL",
-    "description": "The most popular open-source database",
+    "description": "The most popular open-source database herman123",
     "categories": ["database"],
     "platform": "linux",
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mysql.png",
