@@ -2,7 +2,7 @@ version: '2'
 
 services:
    db:
-     image: mariadb:10.3
+     image: mariadb/server:latest
      volumes:
        - db_data:/var/lib/mysql
      restart: always
