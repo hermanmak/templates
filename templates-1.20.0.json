@@ -880,7 +880,7 @@
     "title": "Wordpress",
     "description": "Wordpress setup with a MySQL database",
     "note": "Deploys a Wordpress instance connected to a MySQL database.",
-    "stackfile": "https://raw.githubusercontent.com/hermanmak/templates/master/stacks/wordpress/docker-stack.yml"
+    "stackfile": "https://raw.githubusercontent.com/hermanmak/templates/master/stacks/wordpress/edge/docker-stack.yml"
   },
   {
     "type": 4,
