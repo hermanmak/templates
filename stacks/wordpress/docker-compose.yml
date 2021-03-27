@@ -2,7 +2,7 @@ version: '2'
 
 services:
    db:
-     image: mysql/mysql-server:5.7
+     image: mariadb:10.3
      volumes:
        - db_data:/var/lib/mysql
      restart: always
